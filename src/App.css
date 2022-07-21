@@ -28,6 +28,33 @@
   color: #61dafb;
 }
 
+.Banner {
+  margin: 20px auto;
+  padding: 5px 10px;
+  border: solid;
+  color: #61dafb;
+  width:500px;
+  height: fit-content;
+  border-radius: 25px;
+}
+
+.Title {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+  letter-spacing: 5px;
+}
+
+.Exhibit {
+  margin: 20px auto;
+  padding: 10px 10px;
+  border: 2px solid;
+  color: #cce8f0;
+  background-color: #cce8f0;
+  width:1000px;
+  height: fit-content;
+  border-radius: 25px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
