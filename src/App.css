@@ -46,13 +46,24 @@
 
 .Exhibit {
   margin: 20px auto;
-  padding: 10px 10px;
+  padding: 5px 5px;
   border: 2px solid;
   color: #cce8f0;
   background-color: #cce8f0;
   width:1000px;
-  height: fit-content;
-  border-radius: 25px;
+  border-radius: 10px;
+}
+
+.IP {
+  color: #282c34;
+  text-align:center;
+  margin: 10px auto;
+  padding: 10px 10px;
+  border: 2px solid;
+  border-color: #ffffff;
+  background-color: #ffffff;
+  width:480px;
+  border-radius: 10px;
 }
 
 @keyframes App-logo-spin {
